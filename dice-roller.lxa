@@ -1,0 +1,6 @@
+ teger(i)
+  i = random(1,6)
+
+ln(roll)
+  roll = you rolled a {i}!
+view(roll)
