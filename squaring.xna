@@ -1,0 +1,15 @@
+ask(text)
+ text(give me a number to square.)
+ sq = input
+
+ adapt(square)
+  square = sq * sq
+
+ln(orig)
+ orig = original number: {sq}
+
+ln(new)
+ new = square number: {square}
+
+ view(orig)
+ view(new)
